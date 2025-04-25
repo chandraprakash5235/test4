@@ -1,5 +1,20 @@
+<<<<<<< Updated upstream
 ### working on error####
 fixed it
+=======
+
+Feature 1
+// some login code with OTP
+//100% work done
+#### This above lines will be stored in a hidden git area + temp ########
+
+
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 
